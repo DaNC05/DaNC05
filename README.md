@@ -52,7 +52,7 @@ Tela de login básica para estudos de autenticação.
 ## 🌐 Vamos nos conectar!
 
 📎 [Portfólio](https://streamlined-travelers-726455.framer.app/#serv)  
-📧 E-mail: danielnog.carvalho@gmail.com  
+📧 danielnog.carvalho@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-nogueira-402b35322)  
 
 ---
